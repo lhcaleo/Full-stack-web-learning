@@ -1,0 +1,24 @@
+/* comment */
+
+/* basic style for css  */
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color:blue;
+}
+
+li{
+  color: rgb(246, 59, 59);
+}
+
+p{
+  color: #0895a8;
+  /* hex colour is most popular */
+}
+
+h4{
+  color: rgba(246, 59, 59, 0.9);
+  /* a represents alpha->transparency 0 fully trans. */
+}

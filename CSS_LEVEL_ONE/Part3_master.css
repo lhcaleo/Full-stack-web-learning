@@ -1,0 +1,35 @@
+/* class starts with a dot */
+.firstDiv{
+  color:blue;
+}
+.secondDiv{
+  color:red;
+}
+
+/* id uses hashtag */
+#singledout{
+  color:green;
+  text-decoration: line-through;
+}
+
+/* *asterisk select every element on the page */
+*{
+  color:black;
+}
+/* go to w3school to check css selectors */
+
+h3 + ul {
+  /* quicker way to define border */
+  border:4px dotted purple;
+
+}
+
+li a{
+  /* all anchor tag inside lists */
+  color: red;
+}
+
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}
